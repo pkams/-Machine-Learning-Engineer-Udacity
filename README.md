@@ -15,5 +15,5 @@ Project details:
 - To download the data from kaggle you need to download the kaggle.json token, documentation: https://www.kaggle.com/docs/api
 - Every .py script is a model architecture with different specifications.
 
-To reproduce this project upload all the files (with addition of your kaggle.json token to have the permission to acess and download the data) to a Sagemaker notebook instance using *_conda_tensorflow_py36_* environemnt. The steps inside of the .ipynb can be reproduced running line by line, includying the additional libraries like split-folders.
+To reproduce this project upload all the files (with addition of your kaggle.json token to have the permission to acess and download the data) to a Sagemaker notebook instance using *_conda_tensorflow_py36_* environemnt. The steps inside of the .ipynb can be reproduced running line by line, includiyng the additional libraries like split-folders.
 
