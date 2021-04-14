@@ -1,4 +1,4 @@
-# Capstone Project Proposal
+# Capstone Project 
 
 This repository contains a proposal for Udacity Machine Learning Engineer Capstone Project.
 
